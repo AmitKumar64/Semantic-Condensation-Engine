@@ -40,6 +40,8 @@ This is a Streamlit web application that utilizes the BART (Bidirectional and Au
   - Utilizes the BART model to generate a summary of the input text.
   - Allows users to customize the length of the summary.
   - Provides feedback messages for input validation.
+![Screenshot preview](https://github.com/xRaj03/Semantic-Condensation-Engine/assets/86464172/e0f801b8-e1b7-4084-91c2-b14b7ef77e51)
+![Demo](https://github.com/xRaj03/Semantic-Condensation-Engine/assets/86464172/8bca8475-b19d-4300-abd8-48e5906392c4)
 
 ## Note
 
