@@ -132,7 +132,7 @@ st.markdown(
     """
     <div style='text-align: center; margin-top: 30px; 
                 padding: 20px; font-size: 18px; color: #d1d1d1;'>
-        <em>Made by Amit, Raj, Shivam and Mayank</em>
+        <em>Made by Amit, Raj and Vishwajeet</em>
     </div>
     """, 
     unsafe_allow_html=True
